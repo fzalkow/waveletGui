@@ -15,3 +15,7 @@ This is a GUI for manipulating audio files in the wavelet domain.
 ## Usage
 
 Just run `python waveletGui.py` and a GUI opens which will let you import a WAVE-file, choose a mother wavelet, edit the file in the wavelet domain and export the result to a WAVE-file again. Currently only mono files are supported.
+
+## License
+
+*waveletGui* is licensed under the [MIT License](http://opensource.org/licenses/MIT). This means you can do anything they want with the code as long as you provide attribution back to me.
