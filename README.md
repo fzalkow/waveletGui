@@ -18,4 +18,4 @@ Just run `python waveletGui.py` and a GUI opens which will let you import a WAVE
 
 ## License
 
-*waveletGui* is licensed under the [MIT License](http://opensource.org/licenses/MIT). This means you can do anything they want with the code as long as you provide attribution back to me.
+*waveletGui* is licensed under the [MIT License](http://opensource.org/licenses/MIT). This means you can do anything you want with the code as long as you provide attribution back to me.
