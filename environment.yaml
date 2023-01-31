@@ -1,0 +1,7 @@
+name: waveletGui
+dependencies:
+  - python=3.7
+  - pyqt
+  - pywavelets
+  - numpy
+  - scipy
